@@ -39,6 +39,8 @@ System.config({
       'syncfusion:ej2-querybuilder/dist/ej2-querybuilder.umd.min.js',
     '@syncfusion/ej2-spreadsheet':
       'syncfusion:ej2-spreadsheet/dist/ej2-spreadsheet.umd.min.js',
+    '@syncfusion/ej2-pdfviewer':
+      'syncfusion:ej2-pdfviewer/dist/ej2-pdfviewer.umd.min.js',
   },
   packages: {
     'app': { main: 'app', defaultExtension: 'js' },
